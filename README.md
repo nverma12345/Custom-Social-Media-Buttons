@@ -5,13 +5,13 @@ To do this, I created some custom social media share buttons that were lightweig
 
 ## Custom, Scriptless, and Trackable Social Media Share Buttons
 
->Share on Facebook
->Share on Twitter
->Share on Google Plus
->Share on LinkedIn
->Share on Pinterest
->Share via Email
->Share on Whatsapp
+- Share on Facebook
+- Share on Twitter
+- Share on Google Plus
+- Share on LinkedIn
+- Share on Pinterest
+- Share via Email
+- Share on Whatsapp
 
 ## Screen-Short
 
