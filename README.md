@@ -3,7 +3,7 @@ I am currently working on, the client wanted more advanced insight into where th
 
 To do this, I created some custom social media share buttons that were lightweight, scriptless, and included tracking information for google analytics.
 
-# Custom, Scriptless, and Trackable Social Media Share Buttons
+## Custom, Scriptless, and Trackable Social Media Share Buttons
 
 >Share on Facebook
 >Share on Twitter
